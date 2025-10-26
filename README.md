@@ -2,34 +2,36 @@
 
 A comprehensive CI/CD configuration management tool for enterprise deployments.
 
-## Project Status
-- **Version**: 1.0.0 (Production), 2.0.0-beta (Development)
+---
+
+##  Project Status
+- **Stable Version**: 1.0.0 (Production)
+- **Development Version**: 2.0.0-beta
 - **Environments**: Production & Development
-- **Student**: [Manikanta M]
-- **Student ID**: [23P31A4422]
+- **Student**: Manikanta M
+- **Student ID**: 23P31A4422
 
-## Features
+---
 
-### Core Features
-- Automated deployment scripts
-- Real-time monitoring
-- Configuration management
-- Backup and recovery system
+##  Core Features
 
 ### Production Features
-- SSL/TLS encryption
-- Auto-scaling
-- Load balancer integration
-- Scheduled backups
+-  SSL/TLS encryption  
+-  Auto-scaling  
+-  Load balancer integration  
+-  Scheduled backups  
+-  Rolling updates with zero downtime
 
 ### Development Features (Beta)
--  Docker Compose integration
--  Hot reload enabled
--  Debug mode active
--  Enhanced logging
--  Mock external APIs
+- 🐳 Docker Compose integration  
+- ♻️ Hot reload enabled  
+- 🪲 Debug mode active  
+- 📜 Enhanced logging  
+- 🧪 Mock external APIs  
 
-## Quick Start
+---
+
+##  Quick Start
 
 ### Production Mode
 ```bash
