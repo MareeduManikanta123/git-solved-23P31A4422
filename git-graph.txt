@@ -1,0 +1,90 @@
+*   9b5671a (origin/main, origin/HEAD) Merge pull request #4 from MareeduManikanta123/feature/another-feature
+|\  
+| *   cf26f33 (origin/feature/another-feature) Merge branch 'main' into feature/another-feature
+| |\  
+| |/  
+|/|   
+* | 558bb87 Delete test.txt
+| | * 1c7991c (feature/another-feature) reset testing in another feature
+| | * 5ec3d4c Revert "Bug readme in anotherfeature"
+| | * 1c05610 Bug readme in anotherfeature
+| |/  
+| * ecb94cf change readme in main
+| * a62eb31 create a new file test file for rebase
+| * 9188a74 comp
+| * b1729a7 c
+| * b0212a0 c
+| * 7c1b264 c2
+| * 5cb9bbb c1
+| * 3e89369 c
+| * 53996aa c1
+| * b3e6e9e c
+| * 0377f33 completed
+| * 06cfcc1 (HEAD -> main, tag: v1.1.0, tag: v1.0.0) change readme in main
+| * 9add15e change readme in main
+| * 2e2a65d changed readme in main
+| * 54d78e5 docs: update Readme
+| * 1e85ae1 new branch was added
+| | * 0c5c6a0 (origin/feature/new-feature) c
+| | *   56381cf Merge branch 'main' of github.com:MareeduManikanta123/git-solved-23P31A4422 into feature/new-feature
+| | |\  
+| |_|/  
+|/| |   
+* | |   15460bb c
+|\ \ \  
+| * \ \   cccff86 Merge pull request #2 from MareeduManikanta123/feature/another-feature
+| |\ \ \  
+| | * \ \   21d4413 Merge branch 'main' into feature/another-feature
+| | |\ \ \  
+| | |/ / /  
+| |/| | |   
+| * | | |   c2b5bad Merge pull request #1 from MareeduManikanta123/feature/new-feature
+| |\ \ \ \  
+| | * \ \ \   e354356 Merge branch 'main' into feature/new-feature
+| | |\ \ \ \  
+| | |/ / / /  
+| |/| | | |   
+| | | * | | 42b3fd6 completed
+* | | | | | c8a44e6 comp
+* | | | | | 86a648a comp
+* | | | | | 1ea4ec9 c
+* | | | | | dd36e14 c
+|/ / / / /  
+* | | | | 0f4f470 c
+* | | | | b8a3525 c2
+* | | | | 6ca6921 c1
+* | | | | 64f990d c
+* | | | | 7459dd9 c1
+* | | | | c9f0ae0 c
+* | | | | 58d76fd completed
+* | | | | ea676a7 new branch was added
+| |_|/ /  
+|/| | |   
+* | | | 727cc45 completed
+| | | * b33586f comp
+| | |/  
+| | * 918573e c
+| | * ca41be6 c2
+| | * 115655e c1
+| | * 1765af0 c
+| | * 15dd840 c
+| | * c925f45 c
+| | * b2c3463 completed
+| |/  
+| | * 1cf788b (refs/stash) On feature/new-feature: we were usin git stash here
+| |/| 
+| | * d760303 index on feature/new-feature: 7828817 new branch was added
+| |/  
+| * 7828817 (feature/new-feature) new branch was added
+|/  
+*   66d9632 second branch was merged
+|\  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+* |   2bdbaf6 completed
+|\ \  
+| * | 02011a5 (instructor/dev, dev) updating dev
+| |/  
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+* ae630eb Initial commit
